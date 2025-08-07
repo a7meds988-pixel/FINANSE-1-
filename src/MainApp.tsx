@@ -1,1 +1,1 @@
-<PLACEHOLDER_REPLACED_MANUALLY>
+{/* TODO: استبدل هذا بمحتوى فعلي */}
